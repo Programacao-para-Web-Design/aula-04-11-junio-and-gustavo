@@ -18,27 +18,7 @@
 					animation-duration: 7s;
 					animation-name: BG;
 			}
-				@keyframes BG {
-					from {
-						margin-left: 100%;
-						width: 300%;
-			}
-	
-					to {
-						margin-left: 0%;
-						width: 100%;
-			}
-			}
-				@keyframes BG {
-					from {
-						margin-left: 100%;
-						width: 270%;
-			}
-	
-					to {
-						margin-left: 0%;
-						width: 100%;
-			}
+
 			}
 				#materia{
 					font-weight: bold;
