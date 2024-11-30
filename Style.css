@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang="pt br">
+	<head>
+		<style>
+				#Titulo{
+					font-weight: bold;
+					font-size: 14px;
+					text-align: center;
+			}
+				a{
+					
+			}
+	
+				img{
+					margin-left: 600px;
+					height: 350px;
+					weight: 250px;
+					animation-duration: 7s;
+					animation-name: BG;
+			}
+
+			}
+				#materia{
+					font-weight: bold;
+					font-size: 14px;
+					text-align: center;
+					color: red;
+			}
+				#desenvolvedores{
+					background-color: blue;
+					color: white;
+					font-style: italic;
+			}
+				footer{
+					font-size: 12px;
+					text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+	</body>
+</html>
